@@ -28,7 +28,7 @@ class Nse:
         connection_parameters = {
           "account": "SIINKBW-LC23685",
           "user": "steve",
-          "password": "Prajwal082",
+          "password": "XXXXXXX",
           "role": "SYSADMIN",
           "warehouse": "NSE_DWH",
           "database": "NSE",
